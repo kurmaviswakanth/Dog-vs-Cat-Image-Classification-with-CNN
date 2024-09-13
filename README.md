@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates the use of a convolutional neural network (CNN) to classify images of dogs and cats. The aim is to develop a binary classifier capable of distinguishing between the two types of animals based on image data. By leveraging deep learning techniques, the model learns to extract features from images and accurately predict whether the image contains a dog or a cat.
 
+![Dog vs Cat](https://github.com/kurmaviswakanth/Dog-vs-Cat-Image-Classification-with-CNN/blob/main/dog%20or%20cat.gif)
+
 ## Features
 - **Image Preprocessing**: The images undergo several preprocessing steps, including resizing, normalization, and data augmentation. This helps improve the generalization ability of the model and enhances performance.
 - **CNN Model**: The project utilizes a custom CNN architecture designed to handle the binary classification task. Convolutional layers are used to extract features from images, and pooling layers help reduce dimensionality.
